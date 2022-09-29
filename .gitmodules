@@ -1,0 +1,3 @@
+[submodule "{{ cookiecutter.project_name.replace(' ', '-') }}"]
+	path = {{ cookiecutter.project_name.replace(' ', '-') }}
+	url = git@github.com:AmanjeetCogoport/-cookiecutter.project_name.replace---.git
